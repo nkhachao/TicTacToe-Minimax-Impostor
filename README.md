@@ -4,16 +4,16 @@ Minimax Impostor is a neural network that plays Tic Tac Toe by mimicking Minimax
 
 Each major version of Minimax Impostor will be added as a separate file instead of replacing its predecessor.
 
---------------- Quick Start Guide ----------------
+### Quick Start Guide
 
 To play Tic Tac Toe agaisnt Minimax Impostor, run Playground.py. No configuration needed
 
-Where the game is: TicTacToe.py. A library for playing GUI Tic Tac Toe on Python
-Where the neural network is: Minimax_Impostor.py
-Where the magic lies: DNA_Data.py. This is where weight values of Minimax Impostor neural network are stored.
-No training code is available. 
+- Where the game lies: TicTacToe.py. A library for playing GUI Tic Tac Toe on Python
+- Where the neural network lies: Minimax_Impostor.py
+- Where the magic lies: DNA_Data.py. This is where weight values of Minimax Impostor neural network are stored.
+- No training code is available. 
 
--------------------------------------------------
+### Notes
 
 Required libraries:
 - numpy
