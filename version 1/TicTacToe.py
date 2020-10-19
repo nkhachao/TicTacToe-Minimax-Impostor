@@ -144,7 +144,7 @@ class GUITicTacToe(object):
             return
 
         self.extra_actions = bot_move
-        human_first = messagebox.askyesno("askyesno", "Do you wanna go first?")
+        human_first = messagebox.askyesno("Do you wanna go first?", "Do you wanna go first?")
         if human_first:
             self.game.current_player = 1
         else:
