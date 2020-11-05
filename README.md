@@ -20,13 +20,19 @@ Required libraries:
 - copy 
 - tkinter
 
-Tensorflow is not required! :)
-
 ### Specifications
 
 Version 1:
 
 - Architecture: 4-layer (9-72-72-1) feedforward neural network.
 - Parameter count: 5904 parameters.
-- Activation function: sigmoid
+- Activation function: sigmoid, sigmoid, sigmoid
 - Fitness: about 955
+
+
+Version 2:
+
+- Architecture: 3-layer (9-360-9) feedforward neural network.
+- Parameter count: 6849 parameters.
+- Activation function: sigmoid, sigmoid
+- Fitness: about 93
