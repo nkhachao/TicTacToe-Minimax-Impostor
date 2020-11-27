@@ -1,6 +1,6 @@
 # TicTacToe-Minimax-Impostor
 
-Minimax Impostor is a neural network that plays Tic Tac Toe by mimicking Minimax algorithm. The goal is to create a less CPU intensive alternative to Minimax, which allows implementation on larger Tic Tac Toe boards.
+Minimax Impostor is a neural network that plays Tic Tac Toe by mimicking Minimax algorithm. The goal is to create a faster alternative to Minimax, especially on hardware with dedicated accelerator for machine learning.
 
 Each major version of Minimax Impostor will be added as a separate file instead of replacing its predecessor.
 
